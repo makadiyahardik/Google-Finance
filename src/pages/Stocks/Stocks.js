@@ -128,6 +128,7 @@ const Stocks = () => {
 
                     <div className="flex justify-start items-center">  
                   </div>
+                  <div className="mt-3 ml-3"><p>YOUR LISTS</p></div>
                   <div className="flex justify-start items-center"> 
 
 
