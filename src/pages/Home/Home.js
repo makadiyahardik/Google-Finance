@@ -30,7 +30,7 @@ const Home = () => {
                       <h3 className="uppercase font-semibold text-primary text-[0.75rem] leading-[1rem] tracking-wide">
                         NIFTY 50
                       </h3>
-                      <p className="leading-[1rem] tracking-wide text-[0.75rem] leading-[1rem] tracking-wide text-[0.75rem]">
+                      <p className="leading-[1rem] tracking-wide text-[0.75rem]">
                         20,180.35
                       </p>
                     </div>

@@ -13,12 +13,12 @@ function Header() {
         >
         <div className="   w-full bg-white md:px-10 px-5 mx-auto ">
           <div className="flex  justify-between  md:items-center  ">
-            <div className="flex md:hidden justify-start items-start">
+            {/* <div className="flex md:hidden justify-start items-start">
             <img
                 src="./assets/images/Vieu.png"
                 className="h-[32px] w-[79px]  "
               />
-            </div>
+            </div> */}
             <div className=" md:flex hidden gap-[12px] ">
             <div className=" text-[22px] font-medium leading-[24px]  cursor-pointer">
             <img

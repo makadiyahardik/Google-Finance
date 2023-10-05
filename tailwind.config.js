@@ -10,15 +10,24 @@ module.exports = {
   ],
   theme: {
     colors: {
-      primary: "#202124",
-      secondary: "#3C4043",
+      "primary-600": "#7F56D9",
+      "primary-700": "#6941C6",
+     
 
-      
+
       skyblue: "#399CC8",
       blue: "#612ADB",
       DarkSkyblue: "#3ECEF1",
       black: "#000000",
       white: "#FFFFFF",
+      "gray-600": "#475467",
+      "gray-700": "#344054",
+      "gray-500": "#667085",
+      "red-500": "#ff087",
+      
+
+      
+      "gray-900": "#101828",
     },
     fontSize: {
       sm: ["14px", "20px"],
@@ -47,14 +56,7 @@ module.exports = {
       widest: ".1em",
       widest: ".25em",
     },
-    extend: {
-      transform: {
-        'rotate-y-20': 'rotateY(20deg)',
-      },
-      perspective: {
-        '1100': '1100px',
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
